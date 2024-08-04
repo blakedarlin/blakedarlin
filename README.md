@@ -21,4 +21,4 @@ I lead a small team that turns out products consistently on time, that meet or e
 - When I was just out of high school I learned Flash working at a media agency in Brussels, Belgium.
 
 ## 📫 Get in touch
-I'm open to discussing a website project with you. (Depending on the complexity, scope, and type of your site I might refer you to an agency I know does good work.)
+I'm [open to discussing](mailto:hello@blakedarlin.com) a website project with you. (Depending on the complexity, scope, and type of your site I might refer you to an agency I know does good work.)
