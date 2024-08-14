@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Blake.
 
-I currently work as a full-stack developer at Media Proper, building custom WordPress sites, plugins, and Gutenberg blocks for businesses and organizations. Have a look at our [portfolio](https://www.mediaproper.com/work)!
+I build custom WordPress sites, plugins, and Gutenberg blocks for businesses and organizations.
 
 ## About Me
 I lead a small team that turns out products consistently on time, that meet or exceed expectations, and are very performant. It's something I have a passion for and to which my temperament is well-suited. I enjoy building tools that enable us to maximize the impact of our labor while reducing the risk and impact of errors. I enjoy exploring technical strategies for productivity, including low-code, automation, AI, and well-chosen components. I enjoy thoughtful and elegant design, which is the most critical and rewarding strategy.
@@ -23,4 +23,4 @@ I lead a small team that turns out products consistently on time, that meet or e
 - When I was just out of high school I learned Flash working at a media agency in Brussels, Belgium.
 
 ## 📫 Get in touch
-I'm [open to discussing](mailto:hello@blakedarlin.com) a website project with you. (Depending on the complexity, scope, and type of your site I might refer you to an agency I know does good work.)
+I'm [open to discussing](mailto:hello@blakedarlin.com) a website project with you.
