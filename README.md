@@ -5,7 +5,7 @@ I build custom WordPress sites, plugins, and Gutenberg blocks.
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=wordpress,astro,vite,react,nodejs,docker,gulp,webpack,yarn,python,prometheus,flask,nginx,redis,gitlab,github,figma,js,jest,jquery,php,html,svg,bootstrap,tailwindcss,css,sass,linux)](https://skillicons.dev)
 
-## 2024 Interests
+## Past Interests
 - Astro
 - UnoCSS / TailwindCSS
 - Typescript
