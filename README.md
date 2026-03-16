@@ -19,6 +19,8 @@ I build enterprise WordPress platforms — themes, plugins, Gutenberg blocks, an
 
 MA and PhD from the University of East Anglia (UK), where I studied and wrote about biography and life writing — and co-organized an [international conference](https://ueabiography.wordpress.com/) on the subject with speakers including Claire Tomalin, Richard Holmes, and Charles Nicholl. That background in research, structured analysis, and writing shapes how I approach architecture decisions, documentation, and building things other people can maintain.
 
+Based in Philadelphia. Lived and worked in the UK for seven years. Open to remote and international opportunities.
+
 ## Current interests
 
 - Playwright for automated QA (a11y pre-checks, visual regression, smoke tests) in WordPress CI
