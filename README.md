@@ -9,7 +9,7 @@ I build enterprise WordPress platforms — themes, plugins, Gutenberg blocks, an
 - **DevOps & build systems** — GitHub Actions CI/CD for containerized builds and releases, Docker-based environment management (Python/Flask), Gulp-based build scripts (~3x faster with sass-embedded), DDEV development environments with custom commands
 - **Performance** — Fastly CDN image optimization (67.6% avg file size reduction), CSS/block output caching, HLS video streaming
 - **Data visualization** — Chart.js (Gutenberg blocks with live API data and server-side caching), Leaflet (geospatial mapping)
-- **Accessibility** — VoiceOver screen reader testing in dev workflow, WCAG A/AA compliance, Siteimprove remediation
+- **Accessibility** — color blindness testing, keyboard navigation, screen reader testing (VoiceOver), WAVE evaluation; working with accessibility coordinators to ensure a good experience, not just compliance
 
 ## Open source
 
