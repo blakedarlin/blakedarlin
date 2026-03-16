@@ -1,6 +1,6 @@
 # Hi, I'm Blake.
 
-I build enterprise WordPress platforms: themes, plugins, Gutenberg blocks, and the CI/CD and tooling infrastructure underneath them.
+I build enterprise WordPress platforms — themes, plugins, Gutenberg blocks, and the CI/CD and tooling infrastructure underneath them.
 
 ## What I work on
 
@@ -8,19 +8,19 @@ I build enterprise WordPress platforms: themes, plugins, Gutenberg blocks, and t
 - **WordPress theme architecture** — full-site editing themes serving hundreds of pages, with semantic HTML that supports accessibility and search visibility
 - **DevOps & build systems** — GitHub Actions CI/CD for containerized builds and releases, Gulp-based build scripts, DDEV development environments with custom commands
 - **Performance** — Fastly CDN image optimization (67.6% avg file size reduction), CSS/block output caching, HLS video streaming
-- **Accessibility** — Screen reader testing in dev workflow, WCAG AA compliance
+- **Accessibility** — VoiceOver screen reader testing in dev workflow, WCAG A/AA compliance, Siteimprove remediation
 
 ## Open source
 
-- [**sass-json-importer**](https://github.com/blakedarlin/sass-json-importer) — JSON imports for sass/sass-embedded with WordPress theme.json support. 1,200+ weekly npm downloads.
-- [**gulp-sass**](https://github.com/blakedarlin/gulp-sass) — Gulp plugin for sass/sass-embedded, much faster than the usual one.
+- [**sass-json-importer**](https://github.com/blakedarlin/sass-json-importer) — JSON imports for sass/sass-embedded with WordPress theme.json support. 1,200+ weekly npm downloads; core dependency of @sitegeist/vitesse.
+- [**gulp-sass**](https://github.com/blakedarlin/gulp-sass) — Gulp plugin for sass/sass-embedded
 
 ## Background
 
-I have an MA and PhD from the University of East Anglia (UK) in the humanities. Before code, I spent years doing research, writing, and teaching, which is why I care about documentation, clear architecture, and building things other people can maintain.
+MA and PhD from the University of East Anglia (UK), where I studied and wrote about biography and life writing — and co-organized an [international conference](https://ueabiography.wordpress.com/) on the subject with speakers including Claire Tomalin, Richard Holmes, and Charles Nicholl. That background in research, structured analysis, and writing shapes how I approach architecture decisions, documentation, and building things other people can maintain.
 
 ## Current interests
 
 - Playwright for automated QA (a11y pre-checks, visual regression, smoke tests) in WordPress CI
-- WordPress 7.0: new features, new blocks, new ways to integrate
+- WordPress 7.0, new blocks and features
 - AI-assisted development workflows
