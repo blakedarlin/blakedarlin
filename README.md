@@ -1,19 +1,26 @@
-# 👋 Hi, I’m Blake.
+# Hi, I'm Blake.
 
-I build custom WordPress sites, plugins, and Gutenberg blocks.
+I build enterprise WordPress platforms: themes, plugins, Gutenberg blocks, and the CI/CD and tooling infrastructure underneath them.
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=wordpress,astro,vite,react,nodejs,docker,gulp,webpack,yarn,python,prometheus,flask,nginx,redis,gitlab,github,figma,js,jest,jquery,php,html,svg,bootstrap,tailwindcss,css,sass,linux)](https://skillicons.dev)
+## What I work on
 
-## Past Interests
-- Astro
-- UnoCSS / TailwindCSS
-- Typescript
-- Jest
-- Block development: fetching (AJAX), caching (Redux stores), and display of external API data
-- Block development: adding icons to the native Button block
+- **Gutenberg blocks & patterns** — custom blocks (Interactivity API, multi-block interoperability, third-party library integrations like Chart.js and Embla Carousel), block patterns for cross-theme reuse, and the registration/discovery frameworks that wire them up automatically
+- **WordPress theme architecture** — full-site editing themes serving hundreds of pages, with semantic HTML that supports accessibility and search visibility
+- **DevOps & build systems** — GitHub Actions CI/CD for containerized builds and releases, Gulp-based build scripts, DDEV development environments with custom commands
+- **Performance** — Fastly CDN image optimization (67.6% avg file size reduction), CSS/block output caching, HLS video streaming
+- **Accessibility** — Screen reader testing in dev workflow, WCAG AA compliance
 
-## Fun facts
-- ⚡️ I have a research degree in auto/biography and a (I would say) healthy obsession with the life and times of Benjamin Franklin, Colonial America & Georgian England, and national mythology.
-- I studied, worked, and lived in the UK off and on for 7 years and loved it.
-- When I was just out of high school I learned Flash working at a media agency in Brussels, Belgium.
+## Open source
+
+- [**sass-json-importer**](https://github.com/blakedarlin/sass-json-importer) — JSON imports for sass/sass-embedded with WordPress theme.json support. 1,200+ weekly npm downloads.
+- [**gulp-sass**](https://github.com/blakedarlin/gulp-sass) — Gulp plugin for sass/sass-embedded, much faster than the usual one.
+
+## Background
+
+I have an MA and PhD from the University of East Anglia (UK) in the humanities. Before code, I spent years doing research, writing, and teaching, which is why I care about documentation, clear architecture, and building things other people can maintain.
+
+## Current interests
+
+- Playwright for automated QA (a11y pre-checks, visual regression, smoke tests) in WordPress CI
+- WordPress 7.0: new features, new blocks, new ways to integrate
+- AI-assisted development workflows
